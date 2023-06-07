@@ -3,7 +3,7 @@
 We have designed this work for continuous multi-intent prediction. 
 
 # File Description 
-Testing set including 5 trails for subject5 is placed in './Dada/'. 
+Testing set including 5 trails for subject 5 is placed in './Dada/'. 
 
 The trained model is saved in './Model/'. 
 
