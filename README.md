@@ -16,6 +16,6 @@ This testing script is carried on Tensorflow-v2.
 
 The accuracy and R² are calculated and printed. 
 
-The comparison of true labels and prediction results are displayed on three figures and saved in 'Result_figures'.
+The comparison of true labels and prediction results are displayed on three figures and saved in **'Result_figures'**.
 
 
