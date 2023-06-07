@@ -2,6 +2,6 @@
 
 We have designed this work for continuous multi-intent prediction. 
 
-Please note that the data is placed in './Dada/', while the trained model is saved in './Model/'. The 'utilities_multi' can process EMG signals to sliding windows. And this testing program is carried on Tensorflow-v2.
+Please note that the data is placed in './Dada/', while the trained model is saved in './Model/'. The 'utilities_multi' should be imported process EMG signals to sliding windows. The 'test_result' is used to read testing data, load the model, and show the testing result. And this testing program is carried on Tensorflow-v2.
 
 Please run the 'test_result' to test the prediction performance of an example subject. The accuracy and R² are calculated and printed. Additionall, the comparison of true label and prediction result are displayed on three figures and saved in 'Result_figures'.
