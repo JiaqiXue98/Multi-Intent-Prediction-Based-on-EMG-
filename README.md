@@ -1,7 +1,5 @@
 # Multi-Intent-Prediction-Based-on-EMG
 
-We have designed this work for continuous multi-intent prediction. 
-
 # File Description 
 Testing set including 5 trails for subject 5 is placed in './Dada/'. 
 
